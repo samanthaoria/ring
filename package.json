@@ -1,0 +1,24 @@
+{
+  "name": "ring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "title": "npm run title"
+  },
+  "keywords": [],
+  "author": "Samantha Oria",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanthaoria/encourage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samanthaoria/encourage/issues"
+  },
+  "homepage": "https://github.com/samanthaoria/encourage#readme",
+  "description": "",
+  "dependencies": {
+    "to-title-case": "^1.0.0"
+  }
+}
